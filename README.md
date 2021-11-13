@@ -1,1 +1,1 @@
-# Kodluyoruz-HTML-E-itim-al-mas-
+Bu repo kodluyoruz eğitimi içerisinde yer alan HTMl eğitimi esnasında yapılan çalışmayı içerir.
